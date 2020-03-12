@@ -1,0 +1,6 @@
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\BreakAndContinue.exe.config
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\BreakAndContinue.exe
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\BreakAndContinue.pdb
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\BreakAndContinue.csprojAssemblyReference.cache
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\BreakAndContinue.exe
+C:\Users\Giwrgos\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\BreakAndContinue.pdb
